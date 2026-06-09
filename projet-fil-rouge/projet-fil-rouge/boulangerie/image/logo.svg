@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" role="img" aria-label="Boulangerie Ouahabi">
+  <circle cx="60" cy="60" r="56" fill="#FAF7F2" stroke="#6B3F22" stroke-width="3"/>
+  <circle cx="60" cy="60" r="44" fill="#3A1F0A"/>
+  <path d="M60 24c-8 0-14 6-14 14 0 5 2 9 6 12-6 2-10 7-10 13 0 8 7 15 18 15s18-7 18-15c0-6-4-11-10-13 4-3 6-7 6-12 0-8-6-14-14-14z" fill="#C9A97A"/>
+  <path d="M48 38c2-6 7-10 12-10s10 4 12 10" stroke="#EEE4D4" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M46 52c3-4 8-6 14-6s11 2 14 6" stroke="#EEE4D4" stroke-width="2" stroke-linecap="round"/>
+  <ellipse cx="60" cy="78" rx="16" ry="10" fill="#8C5A30"/>
+  <text x="60" y="86" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#FAF7F2">O</text>
+</svg>
